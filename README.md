@@ -12,6 +12,7 @@
 * [서브 유튜브](https://www.youtube.com/channel/UCvFBlZPInHWf8eE4WUkKS6A)
 * [JP 유튜브](https://www.youtube.com/channel/UCX3ELg-sB0Y3pWpOVIW8CpA)
 * [인스타그램](https://www.instagram.com/flowergam/)
+
 ----
 
 ### 기능
@@ -32,10 +33,14 @@
 
 ### 라이브러리
 
-* [![Discord.Net.Core](https://img.shields.io/nuget/v/Discord.Net.Core?label=Discord.Net.Core&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Core)![Discord.Net][DiscordNetLicense]
-* [![Discord.Net.Rest](https://img.shields.io/nuget/v/Discord.Net.Rest?label=Discord.Net.Rest&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Rest)![Discord.Net][DiscordNetLicense]
-* [![Discord.Net.Webhook](https://img.shields.io/nuget/v/Discord.Net.Webhook?label=Discord.Net.Webhook&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Webhook)![Discord.Net][DiscordNetLicense]
-* [![Newtonsoft.Json](https://img.shields.io/nuget/v/Newtonsoft.Json?label=Newtonsoft.Json&logo=NuGet)](https://www.nuget.org/packages/Newtonsoft.Json) ![Newtonsoft.Json][NewtonsoftJsonLicense]
+* [![Discord.Net.Core](https://img.shields.io/nuget/v/Discord.Net.Core?label=Discord.Net.Core&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Core)
+[![Discord.Net][DiscordNetLicense]]((https://licenses.nuget.org/MIT))
+* [![Discord.Net.Rest](https://img.shields.io/nuget/v/Discord.Net.Rest?label=Discord.Net.Rest&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Rest)
+[![Discord.Net][DiscordNetLicense]]((https://licenses.nuget.org/MIT))
+* [![Discord.Net.Webhook](https://img.shields.io/nuget/v/Discord.Net.Webhook?label=Discord.Net.Webhook&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Webhook)
+[![Discord.Net][DiscordNetLicense]]((https://licenses.nuget.org/MIT))
+* [![Newtonsoft.Json](https://img.shields.io/nuget/v/Newtonsoft.Json?label=Newtonsoft.Json&logo=NuGet)](https://www.nuget.org/packages/Newtonsoft.Json)
+[![Newtonsoft.Json][NewtonsoftJsonLicense]]((https://licenses.nuget.org/MIT))
 
 ----
 
