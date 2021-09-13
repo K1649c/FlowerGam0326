@@ -18,7 +18,7 @@
 * 디스코드 웹훅으로 알림 보내기
     > 라이브 방송이 확인되면 디스코드 웹훅 링크를 통해 알림을 전송합니다.
 
-  * ![Discord-Webhook](./img/Discord-2.png)
+  * ![Discord-Webhook][Discord-Webhook-Ex]
 
 ### 요구 사항
 
@@ -40,4 +40,7 @@
 
 * CCL ([크리에이티브 커먼즈 라이선스](https://en.wikipedia.org/wiki/Creative_Commons_license))
 * BY-NC-SA (저작자표시 + 비영리 + 동일조건변경허락)
-* ![BY-NC-SA](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/120px-Cc-by-nc-sa_icon.svg.png)
+* ![BY-NC-SA][CCL-BY-NC-SA]
+
+[Discord-Webhook-Ex]: ./img/Discord-2.png "디스코드 웹훅 메세지 예시 이미지"
+[CCL-BY-NC-SA]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/120px-Cc-by-nc-sa_icon.svg.png "CCL BY-NC-SA 라이센스 이미지"
