@@ -31,16 +31,12 @@
 * 디스코드 웹훅 링크가 필요합니다. (단순 프로그램 알림만 사용할 경우 필요하지 않습니다.)
 * 트위치 API 토큰이 필요합니다. [트위치 API DOC](https://dev.twitch.tv/docs/api/)
 
-### 라이브러리
-
-* [![Discord.Net.Core](https://img.shields.io/nuget/v/Discord.Net.Core?label=Discord.Net.Core&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Core)
-[![Discord.Net][DiscordNetLicense]]((https://licenses.nuget.org/MIT))
-* [![Discord.Net.Rest](https://img.shields.io/nuget/v/Discord.Net.Rest?label=Discord.Net.Rest&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Rest)
-[![Discord.Net][DiscordNetLicense]]((https://licenses.nuget.org/MIT))
-* [![Discord.Net.Webhook](https://img.shields.io/nuget/v/Discord.Net.Webhook?label=Discord.Net.Webhook&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Webhook)
-[![Discord.Net][DiscordNetLicense]]((https://licenses.nuget.org/MIT))
-* [![Newtonsoft.Json](https://img.shields.io/nuget/v/Newtonsoft.Json?label=Newtonsoft.Json&logo=NuGet)](https://www.nuget.org/packages/Newtonsoft.Json)
-[![Newtonsoft.Json][NewtonsoftJsonLicense]]((https://licenses.nuget.org/MIT))
+**패키지** | **라이선스**
+-------- | ----------------------------------------------------------
+[![Discord.Net.Core](https://img.shields.io/nuget/v/Discord.Net.Core?label=Discord.Net.Core&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Core) | [![Discord.Net][DiscordNetLicense]]((https://licenses.nuget.org/MIT))
+[![Discord.Net.Rest](https://img.shields.io/nuget/v/Discord.Net.Rest?label=Discord.Net.Rest&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Rest) | [![Discord.Net][DiscordNetLicense]]((https://licenses.nuget.org/MIT))
+[![Discord.Net.Webhook](https://img.shields.io/nuget/v/Discord.Net.Webhook?label=Discord.Net.Webhook&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Webhook) | [![Discord.Net][DiscordNetLicense]]((https://licenses.nuget.org/MIT))
+[![Newtonsoft.Json](https://img.shields.io/nuget/v/Newtonsoft.Json?label=Newtonsoft.Json&logo=NuGet)](https://www.nuget.org/packages/Newtonsoft.Json) | [![Newtonsoft.Json][NewtonsoftJsonLicense]]((https://licenses.nuget.org/MIT))
 
 ----
 
@@ -49,6 +45,10 @@
 * CCL ([크리에이티브 커먼즈 라이선스](https://en.wikipedia.org/wiki/Creative_Commons_license))
 * BY-NC-SA (저작자표시 + 비영리 + 동일조건변경허락)
 * ![BY-NC-SA][CCL-BY-NC-SA]
+
+### K1649c
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK1649c%2FFlowerGam0326&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [Discord-Webhook-Ex]: ./img/Discord-2.png "디스코드 웹훅 메세지 예시 이미지"
 [CCL-BY-NC-SA]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/120px-Cc-by-nc-sa_icon.svg.png "CCL BY-NC-SA 라이센스 이미지"
