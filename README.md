@@ -26,6 +26,14 @@
 * 디스코드 웹훅 링크가 필요합니다. (단순 프로그램 알림만 사용할 경우 필요하지 않습니다.)
 * 트위치 API 토큰이 필요합니다. [트위치 API DOC](https://dev.twitch.tv/docs/api/)
 
+### 라이브러리
+
+* [Discord.Net.Core](https://www.nuget.org/packages/Discord.Net.Core/) [MIT License]
+* [Discord.Net.Rest](https://www.nuget.org/packages/Discord.Net.Rest/) [MIT License]
+* [Discord.Net.Webhook](https://www.nuget.org/packages/Discord.Net.Webhook/) [MIT License]
+* [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/) [MIT License]
+* 해당 패키지 라이선스 정보 [MIT License](https://licenses.nuget.org/MIT)
+
 ----
 
 ### 라이센스
