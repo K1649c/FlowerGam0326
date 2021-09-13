@@ -28,10 +28,10 @@
 
 ### 라이브러리
 
-* [Discord.Net.Core](https://www.nuget.org/packages/Discord.Net.Core/) [MIT License]
-* [Discord.Net.Rest](https://www.nuget.org/packages/Discord.Net.Rest/) [MIT License]
-* [Discord.Net.Webhook](https://www.nuget.org/packages/Discord.Net.Webhook/) [MIT License]
-* [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/) [MIT License]
+* [Discord.Net.Core 2.4.0](https://www.nuget.org/packages/Discord.Net.Core/) [MIT License]
+* [Discord.Net.Rest 2.4.0](https://www.nuget.org/packages/Discord.Net.Rest/) [MIT License]
+* [Discord.Net.Webhook 2.4.0](https://www.nuget.org/packages/Discord.Net.Webhook/) [MIT License]
+* [Newtonsoft.Json 13.0.1](https://www.nuget.org/packages/Newtonsoft.Json/) [MIT License]
 * 해당 패키지 라이선스 정보 [MIT License](https://licenses.nuget.org/MIT)
 
 ----
