@@ -33,10 +33,10 @@
 
 **패키지** | **라이선스**
 -------- | ----------------------------------------------------------
-[![Discord.Net.Core](https://img.shields.io/nuget/v/Discord.Net.Core?label=Discord.Net.Core&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Core) | [![Discord.Net][DiscordNetLicense]]((https://licenses.nuget.org/MIT))
-[![Discord.Net.Rest](https://img.shields.io/nuget/v/Discord.Net.Rest?label=Discord.Net.Rest&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Rest) | [![Discord.Net][DiscordNetLicense]]((https://licenses.nuget.org/MIT))
-[![Discord.Net.Webhook](https://img.shields.io/nuget/v/Discord.Net.Webhook?label=Discord.Net.Webhook&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Webhook) | [![Discord.Net][DiscordNetLicense]]((https://licenses.nuget.org/MIT))
-[![Newtonsoft.Json](https://img.shields.io/nuget/v/Newtonsoft.Json?label=Newtonsoft.Json&logo=NuGet)](https://www.nuget.org/packages/Newtonsoft.Json) | [![Newtonsoft.Json][NewtonsoftJsonLicense]]((https://licenses.nuget.org/MIT))
+[![Discord.Net.Core](https://img.shields.io/nuget/v/Discord.Net.Core?label=Discord.Net.Core&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Core) | [![Discord.Net][DiscordNetLicense]](https://licenses.nuget.org/MIT)
+[![Discord.Net.Rest](https://img.shields.io/nuget/v/Discord.Net.Rest?label=Discord.Net.Rest&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Rest) | [![Discord.Net][DiscordNetLicense]](https://licenses.nuget.org/MIT)
+[![Discord.Net.Webhook](https://img.shields.io/nuget/v/Discord.Net.Webhook?label=Discord.Net.Webhook&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Webhook) | [![Discord.Net][DiscordNetLicense]](https://licenses.nuget.org/MIT)
+[![Newtonsoft.Json](https://img.shields.io/nuget/v/Newtonsoft.Json?label=Newtonsoft.Json&logo=NuGet)](https://www.nuget.org/packages/Newtonsoft.Json) | [![Newtonsoft.Json][NewtonsoftJsonLicense]](https://licenses.nuget.org/MIT)
 
 ----
 
