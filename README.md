@@ -28,7 +28,7 @@
 ### 요구 사항
 
 * [.NET Framework 4.7.2 버전이 필요합니다.](https://dotnet.microsoft.com/download/dotnet-framework/net472)
-* 디스코드 웹훅 링크가 필요합니다. (단순 프로그램 알림만 사용할 경우 필요하지 않습니다.)
+* 디스코드 웹훅 링크가 필요합니다.
 * 트위치 API 토큰이 필요합니다. [트위치 API DOC](https://dev.twitch.tv/docs/api/)
 
 **패키지** | **라이선스**
