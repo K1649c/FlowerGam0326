@@ -37,6 +37,7 @@
 [![Discord.Net.Rest](https://img.shields.io/nuget/v/Discord.Net.Rest?label=Discord.Net.Rest&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Rest) | [![Discord.Net][DiscordNetLicense]](https://licenses.nuget.org/MIT)
 [![Discord.Net.Webhook](https://img.shields.io/nuget/v/Discord.Net.Webhook?label=Discord.Net.Webhook&logo=NuGet)](https://www.nuget.org/packages/Discord.Net.Webhook) | [![Discord.Net][DiscordNetLicense]](https://licenses.nuget.org/MIT)
 [![Newtonsoft.Json](https://img.shields.io/nuget/v/Newtonsoft.Json?label=Newtonsoft.Json&logo=NuGet)](https://www.nuget.org/packages/Newtonsoft.Json) | [![Newtonsoft.Json][NewtonsoftJsonLicense]](https://licenses.nuget.org/MIT)
+[![Costura.Fody](https://img.shields.io/nuget/v/Costura.Fody?label=Costura.Fody&logo=NuGet)](https://www.nuget.org/packages/Costura.Fody/) | [![Costura.Fody][CosturaFodyLicense]](https://licenses.nuget.org/MIT)
 
 ----
 
@@ -54,3 +55,4 @@
 [CCL-BY-NC-SA]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/120px-Cc-by-nc-sa_icon.svg.png "CCL BY-NC-SA 라이센스 이미지"
 [DiscordNetLicense]: https://img.shields.io/github/license/Discord-Net/Discord.Net
 [NewtonsoftJsonLicense]: https://img.shields.io/github/license/JamesNK/Newtonsoft.Json
+[CosturaFodyLicense]: https://img.shields.io/github/license/Fody/Costura
