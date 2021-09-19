@@ -41,7 +41,7 @@
 
 ----
 
-### 라이센스
+### 라이선스
 
 * CCL ([크리에이티브 커먼즈 라이선스](https://en.wikipedia.org/wiki/Creative_Commons_license))
 * BY-NC-SA (저작자표시 + 비영리 + 동일조건변경허락)
